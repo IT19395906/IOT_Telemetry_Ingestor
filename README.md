@@ -14,6 +14,8 @@
 
 - MongoDB connection string is stored in the `.env` file as `MONGO_URI`
 
+- cloud Redis connection string is stored in the `.env` file as `REDIS_URL`
+
 
 ## Ai assistance
 - asked AI to guide through set up redis through localhost or hosted platform
